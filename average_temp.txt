@@ -1,0 +1,12 @@
+Month 1: 32.73
+Month 2: 32.12
+Month 3: 30.42
+Month 4: 27.57
+Month 5: 23.97
+Month 6: 21.03
+Month 7: 20.36
+Month 8: 21.81
+Month 9: 24.91
+Month 10: 27.58
+Month 11: 29.82
+Month 12: 31.47

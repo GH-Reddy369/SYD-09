@@ -1,0 +1,5 @@
+Warmest stations:
+MARBLE-BAR: 38.95
+
+Coolest stations:
+CABRAMURRA-SMHEA-AWS: 12.93
